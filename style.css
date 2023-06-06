@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+.glow {
+    font-size: 40px;
+    color:#f73535;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000;
+    }
+    to {
+      text-shadow: 0 0 10px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000;
+    }
+  }
+.kugama{
+    color: #a70909;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.primero{
+    color: rgb(160, 7, 7);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.c{
+    color: #a70909;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.se{
+    color: #a70909;
+}
+.de{
+    color: #a70909;
+}
+.de2{
+    font-size: 40px;
+    color:#f73535;
+    text-align: center;
+    -webkit-animation: de2 1s ease-in-out infinite alternate;
+    -moz-animation: de2 1s ease-in-out infinite alternate;
+    animation: de2 1s ease-in-out infinite alternate;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  @-webkit-keyframes de2 {
+    from {
+      text-shadow: 0 0 10px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000;
+    }
+    to {
+      text-shadow: 0 0 10px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000, 0 0 15px #ff0000;
+    }
+    
+}
+.sese{
+    color: crimson;
+}
